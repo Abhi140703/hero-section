@@ -48,8 +48,7 @@ ul > li > a {
   transition: 0.3 ease-in;
 }
 li:hover{
-  
-  transform: scaley(3);
+  transform: translatex(12px);
 }
 .item:hover{
   background-color: rgb(78, 173, 228);
